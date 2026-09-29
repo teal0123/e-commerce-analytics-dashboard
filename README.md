@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Marwa Omar 👋
+### Data Analyst | Mathematics & Statistics Background
 
-<!--
-**teal0123/teal0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Detail-oriented Data Analyst with a strong academic foundation in Mathematics & Statistics. Skilled in transforming raw data into actionable business intelligence using SQL, Python, and Power BI. Experienced in A/B testing, statistical modeling, and building automated dashboards.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Skills
+- **Data Analysis & Stats:** EDA, A/B Testing, Hypothesis Testing, Statistical Modeling
+- **Databases & SQL:** MySQL, Google BigQuery, Window Functions, CTEs, Database Schema Design
+- **BI & Visualization:** Power BI (DAX, Power Query), Tableau, Google Looker Studio
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- **Advanced Excel:** Pivot Tables, Power Pivot, Macros, KPI Dashboards
+
+---
+
+### 🎓 Education & Certifications
+- **B.Sc. in Mathematics & Statistics** | Helwan University
+- **Diploma in Data Analytics** | IBN SANI Academy
+- **Microsoft Power BI Analyst** | Coursera
+- **Associate Data Analyst (SQL & Python)** | DataCamp
+
+---
+
+### 📬 Connect with Me
+- **LinkedIn:** [linkedin.com/in/marwa-omar-data-analyst](https://linkedin.com/in/marwa-omar-data-analyst)
+- **Email:** marwaomar622009@gmail.com
